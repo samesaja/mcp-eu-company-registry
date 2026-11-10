@@ -1,0 +1,6 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": ["samdhitosaja"],
+  "name": "European Company Registry & B2B Enrichment MCP",
+  "description": "Search 16 European Official Company Registries & B2B Lead Directories (Norway Brreg, Sweden Bolagsverket/Hitta, Finland YTJ, Denmark CVR, Poland KRS/NIP, Italy Registro Imprese, Netherlands KVK, Belgium KBO, Germany Gelbe Seiten, Austria WKO, Switzerland Local.ch)."
+}

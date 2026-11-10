@@ -1,0 +1,31 @@
+{
+  "name": "@samdhitosaja/mcp-eu-company-registry",
+  "version": "1.0.0",
+  "description": "Model Context Protocol (MCP) Server for 16 European Official Company Registries & B2B Lead Directories (KVK, Brreg, PRH/YTJ, CVR/Virk, KRS/NIP, Bolagsverket, WKO, Registro Imprese, Gelbe Seiten, Local.ch) powered by Apify.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "mcp-eu-company-registry": "./index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "apify",
+    "european-company-registry",
+    "kvk",
+    "brreg",
+    "krs",
+    "cvr",
+    "ytj",
+    "bolagsverket",
+    "b2b-leads",
+    "kyb",
+    "vat-verification"
+  ],
+  "author": "samdhitosaja",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js --self-test"
+  }
+}
